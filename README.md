@@ -1,16 +1,24 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile
 
-<!--
-**A1AD10/A1AD10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o ALÁDIO!
 
-Here are some ideas to get you started:
+Atualmente estudando ADS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<dvi>
+  <a href="https://github.com/a1ad10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a1ad10&show_icons=true&theme=gh-light-mode-only"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ad10&layout=compact&theme=gh-light-mode-only"/>
+</div>
+
+### Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al%C3%A1dio-junior285)
+
+### Ferramentas e Tecnologias
+
+<div>
+  
+  <img align="center" alt="a1ad10-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="a1ad10-html" height="30" widht="40" src=""/>
+  
+</div>
