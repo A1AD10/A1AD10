@@ -1,5 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a1ad10&color=yellow" alt="Profile views" /> </p>
+
 Eu sou o ALÁDIO!
 
 Atualmente estudando ADS
