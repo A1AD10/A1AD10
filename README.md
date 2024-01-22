@@ -4,7 +4,7 @@
 
 Eu sou o ALÁDIO!
 
-Atualmente estudando ADS
+Formado em ADS
 
 <dvi>
   <a href="https://github.com/a1ad10">
