@@ -4,7 +4,7 @@
 
 Eu sou o ALÁDIO!
 
-Formado em ADS
+Desenvolvedor Front-End focado em criar interfaces responsivas, acessíveis e com boa performance. Formado em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e sempre em busca de evoluir como dev.
 
 <dvi>
   <a href="https://github.com/a1ad10">
@@ -16,7 +16,7 @@ Formado em ADS
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al%C3%A1dio-junior285)
 
-### Ferramentas e Tecnologias
+### Tecnologias que utilizo
 
 <div>
   
@@ -29,7 +29,14 @@ Formado em ADS
   <img align="center" alt="a1ad10-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
   <img align="center" alt="a1ad10-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
             
-          
+### Projetos em destaque    
 
-  
+🔹 [**Portfólio pessoal**](https://meu-portfolio-opal-pi.vercel.app)  
+Interface moderna com dark mode, Vite + Tailwind, exibe meus projetos e habilidades.
+
+🔹 [**Calmaria Spa**](https://github.com/A1AD10/Calmaria-Spa) *(linkar se tiver)*  
+Landing page de um spa fictício com foco em design limpo e responsivo.
+
+🔹 [**Organo**](https://github.com/A1AD10/Organo) *(linkar se tiver)*  
+App React com TypeScript para organizar times e colaboradores de forma visual.
 
