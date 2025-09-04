@@ -12,10 +12,6 @@ Desenvolvedor Front-End focado em criar interfaces responsivas, acessíveis e co
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ad10&layout=compact&theme=gh-light-mode-only"/>
 </div>
 
-### Contato
-
-{/*[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aladio-junior285)*/}
-
 ### Tecnologias que utilizo
 
 <div>
