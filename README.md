@@ -30,11 +30,8 @@ Desenvolvedor Front-End focado em criar interfaces responsivas, acessíveis e co
 🔹 [**Portfólio**](https://meu-portfolio-opal-pi.vercel.app)  
 Interface moderna com dark mode, Vite + Tailwind, exibe meus projetos e habilidades.
 
-🔹 [**Calmaria Spa**](https://github.com/A1AD10/Calmaria-Spa)  
-Landing page de um spa fictício com foco em design limpo e responsivo.
-
-🔹 [**Organo**](https://github.com/A1AD10/Organo)  
-App React com TypeScript para organizar times e colaboradores de forma visual.
+🔹 [**Pokémon TCG**](https://github.com/A1AD10/pokemon)  
+App com React + Vite que consome a Pokémon TCG-API. Permite busca de Pokémons em tempo real e exibe informações dinâmicas. [Ver online](https://pokemon-weld-mu.vercel.app)
 
 ### Contato
 
