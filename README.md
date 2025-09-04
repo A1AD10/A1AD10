@@ -14,7 +14,7 @@ Desenvolvedor Front-End focado em criar interfaces responsivas, acessíveis e co
 
 ### Contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al%C3%A1dio-junior285)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aladio-junior285)
 
 ### Tecnologias que utilizo
 
@@ -34,9 +34,9 @@ Desenvolvedor Front-End focado em criar interfaces responsivas, acessíveis e co
 🔹 [**Portfólio pessoal**](https://meu-portfolio-opal-pi.vercel.app)  
 Interface moderna com dark mode, Vite + Tailwind, exibe meus projetos e habilidades.
 
-🔹 [**Calmaria Spa**](https://github.com/A1AD10/Calmaria-Spa) *(linkar se tiver)*  
+🔹 [**Calmaria Spa**](https://github.com/A1AD10/Calmaria-Spa)  
 Landing page de um spa fictício com foco em design limpo e responsivo.
 
-🔹 [**Organo**](https://github.com/A1AD10/Organo) *(linkar se tiver)*  
+🔹 [**Organo**](https://github.com/A1AD10/Organo)  
 App React com TypeScript para organizar times e colaboradores de forma visual.
 
