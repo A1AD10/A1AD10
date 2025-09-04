@@ -31,7 +31,7 @@ Desenvolvedor Front-End focado em criar interfaces responsivas, acessíveis e co
             
 ### Projetos em destaque    
 
-🔹 [**Portfólio pessoal**](https://meu-portfolio-opal-pi.vercel.app)  
+🔹 [**Portfólio**](https://meu-portfolio-opal-pi.vercel.app)  
 Interface moderna com dark mode, Vite + Tailwind, exibe meus projetos e habilidades.
 
 🔹 [**Calmaria Spa**](https://github.com/A1AD10/Calmaria-Spa)  
